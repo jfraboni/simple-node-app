@@ -23,8 +23,9 @@ Open a terminal in the directory into which you want to clone the repository, th
 ...some text will fly by as the repository is cloned locally, then enter or cut and paste:
 
     cd simple-node-app && ./setup.sh
-    
+
 Great, you're set to roll!
+
 ---
 
 
@@ -36,8 +37,7 @@ You can see our node <a href="https://github.com/jfraboni/simple-node-app/wiki/S
 
 ### Variables
 
-Let's create some <a href="https://github.com/jfraboni/simple-node-app/wiki/Variables" target="_blank">variables</a> and print them to the screen
-
+We'll create some <a href="https://github.com/jfraboni/simple-node-app/wiki/Variables" target="_blank">variables</a> and print their values to the screen!
 
 **TODO 1 :** Let's create welcome message for our app:
 ```javascript
