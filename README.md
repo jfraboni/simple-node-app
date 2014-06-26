@@ -15,7 +15,7 @@ Create a new node app, and from the terminal, enter or cut and paste the followi
 
     cd simple-node-app && ./setup.sh && cd -
 
-###On your local computer:
+### On your local computer:
 Open a terminal in the directory into which you want to clone the repository, then enter or cut and paste the following command:
 
     git clone https://github.com/jfraboni/simple-node-app.git
@@ -98,6 +98,8 @@ console.log(myObject.id)   // prints 1;
 console.log(myObject.name) // prints Some Object;
 ```
 
+### Properties : Dot Syntax
+
 **TODO 3 :** So, let's give our person a bit of a personality - you can remove the line of code `console.log(person);` if you want, then look for TODO 3, and type:
 
 ```javascript
@@ -117,6 +119,8 @@ Run the app:
 
 Cool, because Objects are dynamic, as a opposed to static, they can be altered at runtime, and in the above example, we're using _dot notation_ or _dot syntax_ to create properties on our person Object.  We're really saying, 'On the _person_ variable, add or overwrite a property called _nameFirst_, and assign the String "_Jack_" to it'.  So, after this point, we can execute `console.log(person.firstName);`, which prints `Jack`.
 
+### Properties : Array Syntax
+
 **TODO 4 :** So, because the keys of an Object are actually <a href="http://www.w3schools.com/jsref/jsref_obj_string.asp" target="_blank">Strings</a>, we can also use the syntax `myObject["type"] = "Awesome Object";` to create properties, sometimes called Array syntax.  Go ahead and add a city property to our person:
 
 ```javascript
@@ -134,6 +138,8 @@ Alrighty, switch back to the terminal, and run our app again:
     City: New Orleans
 
 Sweet, now we're cooking!
+
+### Behaviours : Functions as Methods
 
 Okay, so we've given our person a bit more of a personality in that we've added some properties to the person Object.  What about behaviours?  Remember we said Objects are made of properties _and_ behaviours.  Here we come to <a href="https://github.com/jfraboni/simple-node-app/wiki/Functions" target="_blank">functions</a>, or otherwise known as in the object oriented world, methods.
 
@@ -170,6 +176,8 @@ Head back to the command-line and run our app again:
     Hello, my name is Jack Jones, I live in New Orleans
 
 Excellent, our call to `person.sayHello();` printed "Hello, my name is Jack Jones, I live in New Orleans"!
+
+### Arrays and Loops
 
 Okay, one last thing to check master:  Lists of data!  Often in applications you're going to have to do some processing of data stored in some kind of data structure, and one of the most common data structures is the <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array" target="_blank">Array</a>.  An Array in JavaScript is simply a list of objects of any type.  Arrays are important because they allow us to group items together in some meaningful relationship and handle them in one container.  The contacts in your phone are an example of a list, and an Array provides an <a href="http://en.wikipedia.org/wiki/Application_programming_interface" target="_blank">API</a>, a set of _methods_ to help search through its items for a match.
 
