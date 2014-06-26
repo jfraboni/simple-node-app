@@ -266,4 +266,4 @@ Awesome! Pat yourself on the back - you've written a JavaScript app in the Node.
 Save your apps as you learn: programmers are notorious for remembering where they saved some piece of code, and often go back to snippets of code to remember the exact syntax of some API or to find solution to a repetitous problem.  Keep your work for this reason - it will be not only a great catalogue of your progress, but will give you a reference to solutions.
 
 
-© John Fraboni 2014
+&copy; John Fraboni 2014
