@@ -3,9 +3,6 @@ simple-node-app
 
 An intro to programming in JavaScript and the Node.js environment
 
-**Table of Contents**  *generated with [DocToc](http://doctoc.herokuapp.com/)*
-
-- [simple-node-app](#user-content-simple-node-app)
 - [Installation:](#user-content-installation)
     - [On runnable.com:](#user-content-on-runnablecom)
     - [On your local computer:](#user-content-on-your-local-computer)
