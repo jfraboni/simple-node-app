@@ -3,6 +3,16 @@ simple-node-app
 
 An intro to programming in JavaScript and the Node.js environment
 
+- [simple-node-app](#user-content-simple-node-app)
+- [Installation:](#user-content-installation)
+    - [On runnable.com:](#user-content-on-runnablecom)
+    - [On your local computer:](#user-content-on-your-local-computer)
+- [Lesson Steps:](#user-content-lesson-steps)
+    - [Think in Objects](#user-content-think-in-objects)
+    - [Properties : Dot Syntax](#user-content-properties--dot-syntax)
+    - [Properties : Array Syntax](#user-content-properties--array-syntax)
+    - [Behaviours : Functions as Methods](#user-content-behaviours--functions-as-methods)
+    - [Arrays and Loops](#user-content-arrays-and-loops)
 
 # Installation:
 
