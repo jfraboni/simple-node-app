@@ -23,7 +23,7 @@ console.log("City: " + person.city);
 
 // TODO 5 : Create a function that prints the firstName, lastName and city of the person:
 person.sayHello = function() {
-	console.log("Hello, my name is " + this.firstName + ' ' + this.lastName + ', I live in ' + this.city);	
+	console.log("Hello, my name is " + this.firstName + " " + this.lastName + ", I live in " + this.city);	
 }
 person.sayHello();
 
