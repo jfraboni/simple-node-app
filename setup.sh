@@ -20,7 +20,7 @@ then
   echo "Files relocated to root, installing node packages..."
   cd ../ && npm install
   rm setup.sh
-  rm -rf node-magic-eight-ball-lesson
+  rm -rf simple-node-app
 else
   npm install
   rm setup.sh
