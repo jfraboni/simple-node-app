@@ -3,16 +3,22 @@ simple-node-app
 
 An intro to programming in JavaScript and the Node.js environment
 
+**Table of Contents**  *generated with [DocToc](http://doctoc.herokuapp.com/)*
+
 - [simple-node-app](#user-content-simple-node-app)
 - [Installation:](#user-content-installation)
     - [On runnable.com:](#user-content-on-runnablecom)
     - [On your local computer:](#user-content-on-your-local-computer)
 - [Lesson Steps:](#user-content-lesson-steps)
+    - [Shebang #!](#user-content-shebang-)
+    - [console.log();](#user-content-consolelog)
+    - [Working with Variables](#user-content-working-with-variables)
     - [Think in Objects](#user-content-think-in-objects)
     - [Properties : Dot Syntax](#user-content-properties--dot-syntax)
     - [Properties : Array Syntax](#user-content-properties--array-syntax)
     - [Behaviours : Functions as Methods](#user-content-behaviours--functions-as-methods)
-    - [Arrays and Loops](#user-content-arrays-and-loops)
+    - [Arrays](#user-content-arrays)
+    - [Loops](#user-content-loops)
 
 # Installation:
 
