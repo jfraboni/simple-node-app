@@ -19,8 +19,6 @@ then
   rm ../.bashrc
 
   (shopt -s dotglob; mv -- * ..)
-	
-  source ../.bashrc
 
   echo "Files relocated to root, installing node packages..."
   cd ../ && npm install
