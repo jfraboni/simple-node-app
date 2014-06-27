@@ -15,14 +15,15 @@ then
 	  rm ../server.js
   fi
 
+  # remove the current bash profile, we'll install our own
+  rm ../.bashrc
+
   (shopt -s dotglob; mv -- * ..)
 	
   echo "Files relocated to root, installing node packages..."
   cd ../ && npm install
   
-  echo "PS1='
-  $PWD
-  > '" >> .bashrc
+  # reload prefs
   source .bashrc
   
   rm setup.sh
