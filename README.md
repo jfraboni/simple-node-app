@@ -26,7 +26,7 @@ Create a new node app, and from the terminal, enter or cut and paste the followi
 
 ...some text will fly by as the repository is cloned locally, then enter or cut and paste:
 
-    cd simple-node-app && ./setup.sh && cd - source .bashrc
+    cd simple-node-app && ./setup.sh && cd - && source .bashrc
 
 ### On your local computer:
 Open a terminal in the directory into which you want to clone the repository, then enter or cut and paste the following command:
@@ -35,7 +35,7 @@ Open a terminal in the directory into which you want to clone the repository, th
 
 ...some text will fly by as the repository is cloned locally, then enter or cut and paste:
 
-    cd simple-node-app && ./setup.sh source .bashrc
+    cd simple-node-app && ./setup.sh && source .bashrc
 
 Great, you're set to roll!
 
