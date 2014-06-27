@@ -146,7 +146,7 @@ Run the app:
     First Name: Jack
     Last Name: Jones
 
-Cool, because Objects are dynamic, as a opposed to static, they can be altered at runtime, and in the above example, we're using _dot notation_ or _dot syntax_ to create properties on our person Object.  We're really saying, 'On the _person_ variable, add or overwrite a property called _nameFirst_, and assign the String "_Jack_" to it'.  So, after this point, we can execute `console.log(person.firstName);`, which prints `Jack`.
+Cool, because Objects are dynamic, meaning we can shape them, they can be altered at runtime, and in the above example, we're using _dot notation_ or _dot syntax_ to create properties on our person Object.  We're really saying, 'On the _person_ variable, add or overwrite a property called _nameFirst_, and assign the String "_Jack_" to it'.  So, after this point, we can execute `console.log(person.firstName);`, which prints `Jack`.
 
 ### Properties : Array Syntax
 
