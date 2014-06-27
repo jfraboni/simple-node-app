@@ -19,8 +19,11 @@ then
 	
   echo "Files relocated to root, installing node packages..."
   cd ../ && npm install
-  echo "PS1='\n$PWD\n$ '" >> .bashrc
-  source .bashrc
+  PS1='
+  $PWD
+  > '
+  #echo "PS1='\n$PWD\n> '" >> .bashrc
+  #source .bashrc
   rm setup.sh
   rm -rf simple-node-app
 else
