@@ -20,7 +20,7 @@ then
 
   (shopt -s dotglob; mv -- * ..)
 	
-  source ~/.bashrc
+  source ../.bashrc
 
   echo "Files relocated to root, installing node packages..."
   cd ../ && npm install
