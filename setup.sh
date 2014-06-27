@@ -20,11 +20,10 @@ then
 
   (shopt -s dotglob; mv -- * ..)
 	
+  source ~/.bashrc
+
   echo "Files relocated to root, installing node packages..."
   cd ../ && npm install
-  
-  # reload prefs
-  source .bashrc
   
   rm setup.sh
   rm -rf simple-node-app
