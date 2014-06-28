@@ -1,5 +1,11 @@
 #!/usr/bin/env bash
 
+alias rlbs=". .bashrc"
+
+alias l="ls -al"
+alias lp="ls -p"
+alias h=history
+
 if [[ `hostname -s` = "runnable" ]]
 then
   echo "doing set up for runnable..."
