@@ -26,7 +26,7 @@ Create a new node app, and from the terminal, enter or cut and paste the followi
 
 ...some text will fly by as the repository is cloned locally, then enter or cut and paste:
 
-    cd simple-node-app && ./setup.sh && cd - && rlbs
+    cd simple-node-app && ./setup.sh && cd - && source .bashrc
 
 Great, you're set to roll!
 
