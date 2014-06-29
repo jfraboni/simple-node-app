@@ -2,7 +2,7 @@
 
 if [[ `hostname -s` = "runnable" ]]
 then
-  echo "doing set up for runnable..."
+  echo "executing set up for runnable..."
 
   if [ -e "../package.json" ]
 	then
@@ -17,6 +17,8 @@ then
 
   # remove the current bash profile, we'll install our own
   rm ../.bashrc
+
+  ./replace-anchor.js
 
   (shopt -s dotglob; mv -- * ..)
 
