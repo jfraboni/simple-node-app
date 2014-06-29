@@ -2,6 +2,8 @@
 
 git clone https://github.com/jfraboni/simple-node-app.git
 
+cd simple-node-app
+
 if [[ `hostname -s` = "runnable" ]]
 then
   echo "executing set up for runnable..."
