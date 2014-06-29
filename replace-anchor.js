@@ -5,7 +5,7 @@ var
     readline = require('readline'),
     stream = require('stream'),
     regex = /(<a href=\")([A-Za-z0-9:\/._-]+)\" target=\"_blank\">([\w\s]+)(<\/a>)/, // TODO find representation for " target=\_blank\">
-    instream = fs.createReadStream('READ.md'),
+    instream = fs.createReadStream('README.md'),
     outstream = new stream,
     rl = readline.createInterface(instream, outstream);
 
