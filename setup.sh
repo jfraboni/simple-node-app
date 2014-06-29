@@ -1,5 +1,7 @@
 #!/usr/bin/env bash
 
+git clone https://github.com/jfraboni/simple-node-app.git
+
 if [[ `hostname -s` = "runnable" ]]
 then
   echo "executing set up for runnable..."
