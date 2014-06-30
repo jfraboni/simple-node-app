@@ -19,7 +19,7 @@ An intro to programming in JavaScript and the Node.js environment
 
 # Help Us Improve
 
-Please help us improve our efforts to help you learn by talking a few momments to give us feedback:
+Please help us improve our efforts to help you learn by talking a few moments to give us feedback:
 
 [Feedback](https://docs.google.com/forms/d/1phvbnYuCX9o2KU_G4SMuhQJD9yDLQYeieIQ7E52T4sU/viewform?usp=send_form)
 
@@ -320,7 +320,7 @@ Save your apps as you learn: programmers are notorious for remembering where the
 
 ### Help Us Improve
 
-Please help us improve our efforts to help you learn by talking a few momments to give us feedback:
+Please help us improve our efforts to help you learn by talking a few moments to give us feedback:
 
 [Feedback](https://docs.google.com/forms/d/1phvbnYuCX9o2KU_G4SMuhQJD9yDLQYeieIQ7E52T4sU/viewform?usp=send_form)
 
