@@ -20,7 +20,7 @@ An intro to programming in JavaScript and the Node.js environment
 # Installation:
 
 ### On runnable.com:
-Create a new node app, and from the terminal, enter or cut and paste the following commands:
+Create a new node app, and from the terminal, enter or cut and paste the following commands, then press enter or return:
 
     git clone https://github.com/jfraboni/simple-node-app.git && cd simple-node-app && ./setup.sh && cd - && source .bashrc
 
