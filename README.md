@@ -5,7 +5,7 @@ An intro to programming in JavaScript and the Node.js environment
 
 - [Installation:](#user-content-installation)
     - [On runnable.com:](#user-content-on-runnablecom)
-    - [On your local computer:](#user-content-on-your-local-computer)
+    - [On your local computer:](https://github.com/jfraboni/simple-node-app/wiki/InstallLocally)
 - [Lesson Steps:](#user-content-lesson-steps)
     - [Shebang #!](#user-content-shebang-)
     - [console.log();](#user-content-consolelog)
@@ -22,11 +22,9 @@ An intro to programming in JavaScript and the Node.js environment
 ### On runnable.com:
 Create a new node app, and from the terminal, enter or cut and paste the following commands:
 
-    git clone https://github.com/jfraboni/simple-node-app.git
+    git clone https://github.com/jfraboni/simple-node-app.git && cd simple-node-app && ./setup.sh && cd - && source .bashrc
 
-...some text will fly by as the repository is cloned locally, then enter or cut and paste:
-
-    cd simple-node-app && ./setup.sh && cd - && source .bashrc
+...some text will fly by as the repository is cloned locally and the project is setup.
 
 Great, you're set to roll!
 
