@@ -25,7 +25,7 @@ rl.on('line', function(line) {
 rl.on('close', function() {
     // remove TOC and installtion notes //
     var indexTOC = output.search("\n-");
-    var indexLessonSteps = output.search("# Lesson Steps:");
+    var indexLessonSteps = output.search("# Lesson Steps");
     var header = output.slice(0, indexTOC);
     var body = output.slice(indexLessonSteps);
     output = header + body;

@@ -17,13 +17,13 @@ An intro to programming in JavaScript and the Node.js environment
     - [Arrays](#user-content-arrays)
     - [Loops](#user-content-loops)
 
-Help Us Improve
+# Help Us Improve
 
 Please help us improve our efforts to help you learn by talking a few momments to give us feedback:
 
 [Feedback](https://docs.google.com/forms/d/1phvbnYuCX9o2KU_G4SMuhQJD9yDLQYeieIQ7E52T4sU/viewform?usp=send_form)
 
-# Installation:
+# Installation
 
 ### On runnable.com:
 Create a new node app, and from the terminal, enter or cut and paste the following commands, then press enter or return:
@@ -37,7 +37,7 @@ Great, you're set to roll!
 ---
 
 
-# Lesson Steps:
+# Lesson Steps
 
 Open up the simple-node-app.js file...
 
