@@ -1,8 +1,24 @@
 #!/usr/bin/env bash
 
+config=()
+
+getConfig() {
+    i=0
+    while read line 
+    do
+        config[i]=$line # Put it into the array
+        i=$(($i + 1))
+    done < $1
+}
+
+getConfig ".setup/config.txt"
+
+echo "executing set up for app ${config[0]}..."
+
+
 if [[ `hostname -s` = "runnable" ]]
 then
-  echo "executing set up for runnable..."
+  echo "...on runnable..."
 
   if [ -e "../package.json" ]
 	then
@@ -19,6 +35,7 @@ then
   rm ../.bashrc
 
   ./replace-anchor.js
+  rm replace-anchor.js
 
   (shopt -s dotglob; mv -- * ..)
 
@@ -26,7 +43,7 @@ then
   cd ../ && npm install
   
   rm setup.sh
-  rm -rf simple-node-app
+  rm -rf "${config[0]}"
 else
   npm install
   rm setup.sh
