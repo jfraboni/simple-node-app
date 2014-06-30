@@ -17,6 +17,8 @@ An intro to programming in JavaScript and the Node.js environment
     - [Arrays](#user-content-arrays)
     - [Loops](#user-content-loops)
 
+[Feedback](https://docs.google.com/forms/d/1phvbnYuCX9o2KU_G4SMuhQJD9yDLQYeieIQ7E52T4sU/viewform?usp=send_form)
+
 # Installation:
 
 ### On runnable.com:
@@ -310,6 +312,15 @@ So, it's that time, run the app:
 Awesome! Pat yourself on the back - you've written a JavaScript app in the Node.js environment - you flew through some of the basic concepts, wrote an app using _real_ development tools!
 
 Save your apps as you learn: programmers are notorious for remembering where they saved some piece of code, and often go back to snippets of code to remember the exact syntax of some API or to find solution to a repetitous problem.  Keep your work for this reason - it will be not only a great catalogue of your progress, but will give you a reference to solutions.
+
+
+### Help Us Improve
+
+Please help us improve our efforts to help you learn by talking a few momments to give us feedback:
+
+[Feedback](https://docs.google.com/forms/d/1phvbnYuCX9o2KU_G4SMuhQJD9yDLQYeieIQ7E52T4sU/viewform?usp=send_form)
+
+Thanks, you've helped us considerably!
 
 
 &copy; John Fraboni 2014
