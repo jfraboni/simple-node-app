@@ -318,7 +318,7 @@ Awesome! Pat yourself on the back - you've written a JavaScript app in the Node.
 Save your apps as you learn: programmers are notorious for remembering where they saved some piece of code, and often go back to snippets of code to remember the exact syntax of some API or to find solution to a repetitous problem.  Keep your work for this reason - it will be not only a great catalogue of your progress, but will give you a reference to solutions.
 
 
-### Help Us Improve
+# Help Us Improve
 
 Please help us improve our efforts to help you learn by taking a few moments to give us feedback:
 
@@ -326,7 +326,7 @@ Please help us improve our efforts to help you learn by taking a few moments to 
 
 Thanks, you've helped us considerably!
 
-### Other Resources
+# Other Resources
 
 Continue your learning by visiting <a href="https://github.com/jfraboni/simple-node-app/wiki/Home" target="_blank">our JavaScript wiki</a>
 
