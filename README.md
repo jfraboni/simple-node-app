@@ -3,7 +3,6 @@ simple-node-app
 
 An intro to programming in JavaScript and the Node.js environment
 
-- [simple-node-app](#user-content-simple-node-app)
 - [Help Us Improve](#user-content-help-us-improve)
 - [Installation](#user-content-installation)
     - [On runnable.com:](#user-content-on-runnablecom)
