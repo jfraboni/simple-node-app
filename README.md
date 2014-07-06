@@ -28,7 +28,7 @@ Please help us improve our efforts to help you learn by taking a few moments to 
 ### On runnable.com:
 Create a new node app, and from the terminal, enter or cut and paste the following commands, then press enter or return:
 
-    git clone https://github.com/jfraboni/simple-node-app.git && cd simple-node-app && ./setup.sh && cd - && source .bashrc
+    git clone https://github.com/jfraboni/simple-node-app.git && cd simple-node-app && ./setup.sh && cd -
 
 ...some text will fly by as the repository is cloned locally and the project is setup.
 
@@ -326,5 +326,10 @@ Please help us improve our efforts to help you learn by taking a few moments to 
 
 Thanks, you've helped us considerably!
 
+### Other Resources
+
+Continue your learning by visiting <a href="https://github.com/jfraboni/simple-node-app/wiki/Home" target="_blank">our JavaScript wiki</a>
+
+And please visit <a href="http://operationspark.org" target="_blank">operationspark.org</a> to learn more about our project.
 
 &copy; John Fraboni 2014
