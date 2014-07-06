@@ -3,10 +3,11 @@ simple-node-app
 
 An intro to programming in JavaScript and the Node.js environment
 
-- [Installation:](#user-content-installation)
+- [simple-node-app](#user-content-simple-node-app)
+- [Help Us Improve](#user-content-help-us-improve)
+- [Installation](#user-content-installation)
     - [On runnable.com:](#user-content-on-runnablecom)
-    - [On your local computer:](https://github.com/jfraboni/simple-node-app/wiki/InstallLocally)
-- [Lesson Steps:](#user-content-lesson-steps)
+- [Lesson Steps](#user-content-lesson-steps)
     - [Shebang #!](#user-content-shebang-)
     - [console.log();](#user-content-consolelog)
     - [Working with Variables](#user-content-working-with-variables)
@@ -16,6 +17,9 @@ An intro to programming in JavaScript and the Node.js environment
     - [Behaviours : Functions as Methods](#user-content-behaviours--functions-as-methods)
     - [Arrays](#user-content-arrays)
     - [Loops](#user-content-loops)
+- [Help Us Improve](#user-content-help-us-improve-1)
+- [Other Resources](#user-content-other-resources)
+
 
 # Help Us Improve
 
