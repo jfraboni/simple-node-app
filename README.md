@@ -31,7 +31,7 @@ Please help us improve our efforts to help you learn by taking a few moments to 
 ### On runnable.com:
 Create a new node app, and from the terminal, enter or cut and paste the following commands, then press enter or return:
 
-    git clone https://github.com/jfraboni/simple-node-app.git && cd simple-node-app && ./setup.sh && cd -
+    git clone https://github.com/jfraboni/simple-node-app.git spark && spark/setup.sh
 
 ...some text will fly by as the repository is cloned locally and the project is setup.
 
