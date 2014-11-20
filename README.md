@@ -5,6 +5,7 @@ An intro to programming in JavaScript and the Node.js environment
 
 - [Help Us Improve](#user-content-help-us-improve)
 - [Installation](#user-content-installation)
+    - [On Cloud9:](#user-content-on-cloud9)
     - [On runnable.com:](#user-content-on-runnablecom)
 - [Lesson Steps](#user-content-lesson-steps)
     - [Shebang #!](#user-content-shebang-)
@@ -27,6 +28,18 @@ Please help us improve our efforts to help you learn by taking a few moments to 
 [Feedback](https://docs.google.com/forms/d/1phvbnYuCX9o2KU_G4SMuhQJD9yDLQYeieIQ7E52T4sU/viewform?usp=send_form)
 
 # Installation
+
+### On Cloud9
+
+Create a new Cloud9 workspace for Node.js
+
+1. From your Cloud9 Dashboard, find in the upper left corner and click the green button, "Create New Workspace".
+Select "Clone From URL".
+2. In the "Source URL" form input, copy and paste in the following URL: https://github.com/jfraboni/simple-node-app.git
+3. In the environment selection box, select "Node.js".
+4. Finally, click the green button "Create".
+
+Nice, you're in business...
 
 ### On runnable.com:
 Create a new node app, and from the terminal, enter or cut and paste the following commands, then press enter or return:
